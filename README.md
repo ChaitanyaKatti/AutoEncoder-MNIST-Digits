@@ -5,4 +5,6 @@ You can generate a gif by interpolating between the average latent vectors for e
 
 Below is an example of interploation in 10-D latent space form digits 0 to 9
 
-![interpolation](https://github.com/ChaitanyaKatti/AutoEncoder-MNIST-Digits/assets/96473570/32972636-977a-4042-b257-ebe3b5a4cdcb)
+<p align="center">
+  <img src="https://github.com/ChaitanyaKatti/AutoEncoder-MNIST-Digits/assets/96473570/32972636-977a-4042-b257-ebe3b5a4cdcb" alt="Your GIF" width="200" height="200">
+</p>
